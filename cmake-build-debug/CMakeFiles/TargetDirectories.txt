@@ -1,0 +1,3 @@
+C:/Universidad/2024 progra/parcial1_progra1/cmake-build-debug/CMakeFiles/parcial1_progra1.dir
+C:/Universidad/2024 progra/parcial1_progra1/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Universidad/2024 progra/parcial1_progra1/cmake-build-debug/CMakeFiles/rebuild_cache.dir
